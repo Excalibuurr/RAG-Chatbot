@@ -9,6 +9,7 @@ import PyPDF2
 # DocumentEmbedder for resume/job description analysis
 class DocumentEmbedder:
 	def __init__(self, model_name: str = 'all-MiniLM-L6-v2'):
+		# Load model for embedding
 		self.model = SentenceTransformer(model_name)
 
 	def load_pdf(self, file_path: str) -> str:
