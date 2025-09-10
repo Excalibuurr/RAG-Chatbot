@@ -1,0 +1,12 @@
+# Add required dependencies for RAG Chatbot
+sentence-transformers
+transformers
+PyPDF2
+numpy
+streamlit 
+langchain-openai 
+langchain-groq 
+langchain-google-genai 
+langchain-core
+bs4
+dotenv

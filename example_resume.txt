@@ -1,0 +1,26 @@
+John Doe
+Email: john.doe@email.com
+Phone: (555) 123-4567
+LinkedIn: linkedin.com/in/johndoe
+
+Summary:
+Results-driven AI Engineer with 3+ years of experience in machine learning, NLP, and data science. Skilled in Python, TensorFlow, and cloud deployment. Passionate about building scalable AI solutions.
+
+Education:
+B.Sc. Computer Science, University of Example, 2021
+
+Experience:
+AI Engineer, Tech Innovations Inc. (2022–Present)
+- Developed NLP models for customer support automation
+- Led deployment of ML models on AWS
+- Collaborated with cross-functional teams to deliver AI solutions
+
+Skills:
+- Python, TensorFlow, PyTorch
+- Machine Learning, NLP
+- AWS, Docker, Git
+- Data Analysis, Visualization
+
+Certifications:
+- AWS Certified Machine Learning – Specialty
+- TensorFlow Developer Certificate

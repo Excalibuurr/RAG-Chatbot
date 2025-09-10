@@ -1,0 +1,21 @@
+AI Engineer (2025)
+
+We are seeking an AI Engineer to join our team and help build next-generation machine learning solutions. The ideal candidate will have experience in NLP, deep learning, and cloud deployment.
+
+Responsibilities:
+- Design and implement machine learning models for real-world applications
+- Work with NLP and generative AI technologies
+- Deploy models on cloud platforms (AWS, GCP, Azure)
+- Collaborate with data scientists and software engineers
+
+Requirements:
+- 2+ years experience in AI/ML
+- Strong Python and TensorFlow skills
+- Experience with NLP and LLMs
+- Familiarity with cloud deployment (AWS preferred)
+- Excellent communication and teamwork skills
+
+Preferred:
+- Experience with Docker and Git
+- AWS or Google Cloud certification
+- Published research or open-source contributions
